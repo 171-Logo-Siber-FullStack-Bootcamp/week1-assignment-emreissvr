@@ -4,7 +4,9 @@
 - XMLHttpRequest araştırılacak ve jsonplaceholder kullanılarak içerisindeki userlar console’a yazdırılacak.
 
 ### Solution 1 - String 
-![String](images/ScreenRecorderProject.gif)
+![String](images/ScreenRecorderProject2.gif)
+### Solution 2 - JSON
+![JSON](images/ScreenRecorderProject3.gif)
 
 ## XMLHttpRequest nedir?
 - XMLHttpRequest nesnesi, AJAX'ın anahtarıdır. 2005'te AJAX ve Web 2.0 ile popüler hale gelmesiyle keşfedildi.
